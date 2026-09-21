@@ -1,5 +1,5 @@
 const i18n = createI18n({
-    legacy: false;
+    legacy: false,
     locale: 'en',
 
 })
