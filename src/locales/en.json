@@ -1,0 +1,20 @@
+{
+
+  "options": {
+    "home": "Home",
+    "about": "About"
+  },
+  "home": {
+    "title": "Welcome to Our Website",
+    "content": "Welcome to ACME learning center."
+  },
+  "about": {
+    "title": "About Us",
+    "content": "ACME Learning Center is an education business platform, part of ACME Corporation."
+  },
+  "pageNotFound": {
+    "title": "Page Not Found",
+    "content": "The route {unavailable-route} does not exist.",
+    "go-home": "Go Home"
+  }
+}
